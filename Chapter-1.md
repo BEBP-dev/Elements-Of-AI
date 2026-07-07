@@ -13,7 +13,7 @@ La inteligencia artificial es un concepto dificil de definir debido a múltiples
 Estos son conceptos técnicos que se refieren a dos características básicas y necesarias para una Inteligencia Artificial. Por un lado, la autonomía es la capacidad que tiene un sistema de evolucionar y buscar soluciones frente a una situación dada sin la necesidad de intervención humana. Por otra parte, la adaptabilidad es la capacidad del sistema de adaptarse a las condiciones de su entorno, incluyendo entradas y salidas de datos importantes. La diferencia entre estos dos conceptos radica principalmente en los contextos en lo que se desarrollan, puesto que un sistema puede ser adaptable pero no autonomo a unas características específicas. 
 
 ### Problemas y Ejemplos que resuelve la IA
-- Sistemas de recomendación utilizando estadística y machein learning para analizar patrones de comportamiento y generar algoritmos, aplicados a distintas aplicaciones y redes sociales, como Spotify, Netflix, TikTok, Instagram, entre otras.
+- Sistemas de recomendación utilizando estadística y machine learning para analizar patrones de comportamiento y generar algoritmos, aplicados a distintas aplicaciones y redes sociales, como Spotify, Netflix, TikTok, Instagram, entre otras.
 
 - Máquinas autónomas, que cuentan con sofisticados sistemas de robótica para poder percibir y analizar su entorno, y que además se les puede agregar una parte de Inteligencia Artificial para tomar decisiones y manter una adaptabilidad al entorno. Un ejemplo común son los coches que se manejan solos. 
 
